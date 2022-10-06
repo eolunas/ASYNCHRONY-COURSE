@@ -1,0 +1,17 @@
+{
+  "name": "asynchrony-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/01-API-consume.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Eduardo Luna eolunas@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
