@@ -12,6 +12,8 @@
   "author": "Eduardo Luna eolunas@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
